@@ -1,7 +1,7 @@
 # Real Estate Marketplace
 
 ## Introduction
-Welcome to the "Master MERN Stack: Build a Modern Real Estate Marketplace from Scratch" project! In this course, we'll take you on a journey through modern web development, where you'll master the MERN stack - MongoDB, Express.js, React, and Node.js. Whether you're an aspiring full-stack developer, a React enthusiast, or someone eager to expand your web development toolkit, this course is tailor-made for you.
+Welcome to the "Master MERN Stack: Build a Modern Real Estate Marketplace from Scratch" project! Journey through modern web development, mastering the MERN stack - MongoDB, Express.js, React, and Node.js.
 
 ## Features
 - **User Authentication:** Secure user authentication using JWT.
